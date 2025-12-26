@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_background">#00001E</color>
+    <color name="purple_button_background">#C9C6FF</color>
+    <color name="dart_text">#00001E</color>
+    <color name="light_text">#D9E5FF</color>
+    <color name="gray_text">#5D5D5D</color>
+    <color name="splash_background">#000000</color>
+</resources>
